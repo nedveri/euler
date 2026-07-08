@@ -1,0 +1,45 @@
+# Build directories
+build/
+Build/
+build-*/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+install_manifest.txt
+
+# Compiled files
+*.o
+*.obj
+*.a
+*.so
+*.so.*
+*.dll
+*.dylib
+*.exe
+*.out
+*.app
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Eclipse CDT
+.project
+.cproject
+.settings/
+
+# VS Code
+.vscode/
+
+# CLion
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
